@@ -62,6 +62,7 @@ El nombre del proyecto que se estará realizando es:
 “Robótica Inmersiva e Inclusiva con IA en Mundos Virtuales”
 
 Estos son unos avances de lo que va del proyecto:
+
 1.- Implementación de un brazo robótico con una breve animación con perfecta funcionalidad.
  
 2.- También ya esta el funcionamiento de una pequeña IA que te sigue a donde vayas en la zona que tu pongas preestablecida.
