@@ -1,7 +1,6 @@
 # "Robótica Inmersiva e Inclusiva con IA en Mundos Virtuales”
 
 -  Ulises Ferrusca Jiménez
--  Benjamin Comba Calcaneo
 
 
 # Development
@@ -58,13 +57,22 @@ Y darle click en Download the Creator Companion para descargar un complemento qu
   
 
 
-El propósito de usar esta plataforma es desarrollar un proyecto que facilite el aprendizaje de robótica básica, así como su enseñanza. Teniendo en cuenta que también se enseñara con lengua de señas mexicana para la parte de inclusión.
+El propósito de usar esta plataforma es desarrollar un proyecto que facilite el aprendizaje y enseñanza de robótica básica, así como otro tema principalmente que es Cinematica Inversa. Teniendo en cuenta que también se enseñara con lengua de señas mexicana para la parte de inclusión.
 El nombre del proyecto que se estará realizando es:
 “Robótica Inmersiva e Inclusiva con IA en Mundos Virtuales”
+
 Estos son unos avances de lo que va del proyecto:
 1.- Implementación de un brazo robótico con una breve animación con perfecta funcionalidad.
  
+2.- También ya esta el funcionamiento de una pequeña IA que te sigue a donde vayas en la zona que tu pongas preestablecida.
 
-2.- También ya esta el funcionamiento de una pequeña IA que te sigue a donde vayas en la zona que tu pongas de preestablecida 
+3.- Funcionamiento de puertas por aproximación y por botones.
+
+4.- Se implementaron Pequeños textos por el mundo con explicaciones basicas acerca del tema.
+
+5.- Se puede realizar la accion de teletransportarte a un area en especifica tambien.
+
+6.- Creación y acomodo del entorno de aprendizaje.
  
+
 
