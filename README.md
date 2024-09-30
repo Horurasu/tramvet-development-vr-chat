@@ -371,6 +371,6 @@ https://github.com/user-attachments/assets/bf813b39-fd27-4f1f-8cfd-c061ae69f17e
 
 ## 6.- Creación y acomodo del entorno de aprendizaje.
 
-## 7.- Ivestigación acerca de lo que se va a explicar y enseñar.
+## 7.- Investigación acerca de lo que se va a explicar y enseñar.
   
 
